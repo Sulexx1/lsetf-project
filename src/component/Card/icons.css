@@ -1,0 +1,48 @@
+.whatsapp_float {
+    width: 60px;
+    height: 20px;
+    bottom: 40px;
+    /* background-color: #25d366; */
+    color: #25d366;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 30px;
+    /* box-shadow: 2px 2px 3px #999; */
+}
+
+.facebook_float {
+    width: 60px;
+    height: 20px;
+    bottom: 40px;
+    /* background-color: #253cd3; */
+    color: #253cd3;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 30px;
+    cursor: pointer;
+    /* box-shadow: 2px 2px 3px #999; */
+}
+.linkedin_float {
+    width: 60px;
+    height: 20px;
+    bottom: 40px;
+    /* background-color: #253cd3; */
+    color: #ffffff;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 30px;
+    cursor: pointer;
+    /* box-shadow: 2px 2px 3px #999; */
+}
+.github_float {
+    width: 60px;
+    height: 20px;
+    bottom: 40px;
+    /* background-color: #253cd3; */
+    color: #060608;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 30px;
+    cursor: pointer;
+    /* box-shadow: 2px 2px 3px #999; */
+}
